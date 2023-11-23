@@ -4,17 +4,6 @@
 
 > Not: Contributors(Katkıda Bulunanlar) Kısmında İsminizin Görünmesi için Birçok Konuda Bu Repo'ya Katkıda Bulunabilirsiniz. Örneğin Her Bölüm ile İlgili Hazırladığım README Sayfalarına Besleyici Linkler veya Hazırladığım Kod Örneklerine Benzer Değişik Örnekler Hazırlayabilirsiniz 🤗
 
-## Hazırladığım Diğer Eğitimler:
-
-### Sıfırdan Projelerle Front-End ve React Eğitimi
-[![Udemy - Sıfırdan Projelerle React Öğren](https://github.com/hakanyalcinkaya/hakanyalcinkaya/blob/main/assets/img/udemy-react-v1.jpg)](http://lnk.ktlzr.co/gtkreact)
-
-- [Udemy: Sıfırdan Projelerle JavaScript ve React Eğitimi](http://lnk.ktlzr.co/gtkreact)
-- [Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Öğren](http://lnk.ktlzr.co/gtdj)
-- [Udemy: İki Eğitmen ile Sıfırdan Pyhon Öğren](http://lnk.ktlzr.co/upy2)
-- [Udemy: Emmet ile HTML ve CSS'te Hızlı Kodlama Teknikleri Öğrenin](https://www.udemy.com/course/emmet-ile-html-ve-css-te-hzl-kodlama-teknikleri-ogrenin/)
-- [Udemy: Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
-
 ## Önemli Notlar:
 - [Yanlış Yerde Açılan Git Versiyon Kontrol Sistemine Dikkat Etmeniz Gerekiyor. Lütfen < git init > Kullanmadan Önce Bu Videoyu İzleyin](https://www.youtube.com/watch?v=5o8Q2uiqFTw&t=2s)
 
